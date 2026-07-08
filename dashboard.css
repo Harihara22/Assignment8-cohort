@@ -337,7 +337,7 @@ body.dark-theme .inputBox{
     width: 100%;
     border-radius: 6px;
 }
-body.dark-theme .btn-primary {
+body.dark-theme #transactionBox .btn-primary {
     background-color: #3b82f6;
 }
 
