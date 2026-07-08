@@ -315,6 +315,13 @@ select {
                 border-radius: 6px;
 }
 
+body.dark-theme .inputBox{
+    background-color: none;
+    color:white;
+}
+
+
+
 
 .btn-primary {
     color: rgb(255, 255, 255);
@@ -329,6 +336,9 @@ select {
     margin-top: 16px;
     width: 100%;
     border-radius: 6px;
+}
+body.dark-theme .btn-primary {
+    background-color: #3b82f6;
 }
 
 
